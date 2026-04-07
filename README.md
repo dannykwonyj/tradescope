@@ -102,4 +102,4 @@ tradescope/
 
 ## Built by
 
-Danny Kwon — [dannybeyondit@gmail.com](mailto:dannybeyondit@gmail.com)
+Danny Kwon — [dannykwonyj@gmail.com](mailto:dannykwonyj@gmail.com)
